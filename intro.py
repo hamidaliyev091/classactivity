@@ -1,0 +1,2 @@
+print("Hamid Aliyev, September 15 2026, 15:48 , I want to learn python to be able to write my custom scripts with ai")
+#Hamid Aliyev, September 15 2026, 15:48 , I want to learn python to be able to write my custom scripts with ai
